@@ -1,10 +1,12 @@
 import Navbar from "./Components/Navbar"
+import About from "./Components/About"
 
 function App() {
 
   return (
-    <div className="bg-[var(--primary-color)]">
+    <div>
         <Navbar/>
+        <About/>
     </div>
   )
 }

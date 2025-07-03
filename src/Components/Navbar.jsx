@@ -2,7 +2,7 @@ const Navbar = () => {
     return (
         <>
             <div className="bg-[var(--primary-color)] flex flex-row justify-between h-[17vh] mx-3 top-0">
-                <img src="./" alt="hei-logo"/>
+                <img src="../src/assets/images/hei-logo.png" alt="hei-logo"/>
                 <ul className=" text-white text-xl font-semibold font-[var(--hei-policy)] items-center flex flex-row gap-x-5 mr-5">
                     <li className="text-[var(--secondary-color)]">ACCUEIL</li>
                     <li>ACTUALITES</li>
