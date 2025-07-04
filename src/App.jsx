@@ -1,6 +1,7 @@
 import Navbar from "./Components/Navbar"
 import About from "./Components/About"
 import OpenWay from "./Components/OpenWay"
+import Admission from "./Components/Admission"
 
 function App() {
 
@@ -9,6 +10,7 @@ function App() {
         <Navbar/>
         <About/>
         <OpenWay/>
+        <Admission/>
     </div>
   )
 }
