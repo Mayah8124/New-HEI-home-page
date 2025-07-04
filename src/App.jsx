@@ -3,6 +3,7 @@ import About from "./Components/About"
 import OpenWay from "./Components/OpenWay"
 import Admission from "./Components/Admission"
 import TechnoLanguages from "./Components/TechnoLanguages"
+import Footer from "./Components/Footer"
 
 function App() {
 
@@ -13,6 +14,7 @@ function App() {
         <OpenWay/>
         <Admission/>
         <TechnoLanguages/>
+        <Footer/>
     </div>
   )
 }
