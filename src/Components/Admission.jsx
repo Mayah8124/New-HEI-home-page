@@ -1,7 +1,7 @@
 const Admission = () => {
     return (
         <>
-            <div className="bg-blue-300 text-white flex flex-col gap-10 py-3 items-center">
+            <div className="bg-blue-300 text-white flex flex-col gap-10 py-6 items-center">
                 <h1 className="text-5xl font-serif">Admissions</h1>
                 <p className="text-center text-xl mx-[15vw]">Ouverte aux bacheliers de toutes les séries, l’admission chez HEI se fait par test de niveau :
 une épreuve de français niveau B2 et d’une épreuve de mathématiques niveau Terminale D. </p>
