@@ -7,6 +7,7 @@ import Domaines from "./Components/Domaines"
 import Admission from "./Components/Admission"
 import Pedagogy from "./Components/Pedagogy"
 import TechnoLanguages from "./Components/TechnoLanguages"
+import Partners from "./Components/Partners"
 import Footer from "./Components/Footer"
 
 function App() {
@@ -22,6 +23,7 @@ function App() {
         <Admission/>
         <Pedagogy/>
         <TechnoLanguages/>
+        <Partners/>
         <Footer/>
     </div>
   )
