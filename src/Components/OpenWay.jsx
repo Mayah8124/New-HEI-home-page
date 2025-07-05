@@ -1,7 +1,7 @@
 const OpenWay = () => {
     return (
         <>
-            <div className="flex flex-row-reverse my-7 mx-3 items-center">
+            <div className="flex flex-row-reverse my-7 mx-3 py-6 items-center">
                 <img src="../src/assets/images/hei-image1.webp" alt="hei-image" className="h-[80vh]" />
                 <div className="text-[var(--primary-color)] ">
                     <h1 className="font-semibold text-5xl mb-5 ml-6">Quelques débouchés</h1>
