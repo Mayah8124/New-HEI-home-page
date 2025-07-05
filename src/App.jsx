@@ -3,6 +3,7 @@ import Slideshow from "./Components/Slideshow"
 import About from "./Components/About"
 import TeamSection from "./Components/TeamSection"
 import OpenWay from "./Components/OpenWay"
+import Domaines from "./Components/Domaines"
 import Admission from "./Components/Admission"
 import TechnoLanguages from "./Components/TechnoLanguages"
 import Footer from "./Components/Footer"
@@ -16,6 +17,7 @@ function App() {
         <About/>
         <TeamSection/>
         <OpenWay/>
+        <Domaines/>
         <Admission/>
         <TechnoLanguages/>
         <Footer/>
