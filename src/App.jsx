@@ -5,6 +5,7 @@ import TeamSection from "./Components/TeamSection"
 import OpenWay from "./Components/OpenWay"
 import Domaines from "./Components/Domaines"
 import Admission from "./Components/Admission"
+import Pedagogy from "./Components/Pedagogy"
 import TechnoLanguages from "./Components/TechnoLanguages"
 import Footer from "./Components/Footer"
 
@@ -19,6 +20,7 @@ function App() {
         <OpenWay/>
         <Domaines/>
         <Admission/>
+        <Pedagogy/>
         <TechnoLanguages/>
         <Footer/>
     </div>
